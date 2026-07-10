@@ -58,8 +58,4 @@ output/generated_music.mid
 **Ritik Kumar**
 
 CodeAlpha Artificial Intelligence Internship
-## Author
-
-Ritik Kumar
-
-CodeAlpha Artificial Intelligence Intern
+ 
