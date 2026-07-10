@@ -53,7 +53,11 @@ The generated music will be saved in:
 ```
 output/generated_music.mid
 ```
+## Author
 
+**Ritik Kumar**
+
+CodeAlpha Artificial Intelligence Internship
 ## Author
 
 Ritik Kumar
